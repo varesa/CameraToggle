@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="camera_address_key"
+        android:title="Kameran osoite"/>
+    <EditTextPreference
+        android:key="camera_username_key"
+        android:title="Kameran käyttäjätunnus"/>
+    <EditTextPreference
+        android:key="camera_password_key"
+        android:title="Kameran salasana"/>
+</PreferenceScreen>
